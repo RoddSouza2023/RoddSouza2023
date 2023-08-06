@@ -8,7 +8,11 @@ improve and better my experience, and that of others through coding!
 
 When not coding I enjoy playing basketball, riding my bike and/or motorcycle, hiking and camping.
 
-<dl>Feel free to reach out to me:
-  <dd>[LinkedIn] (https://www.linkedin.com/in/rodrigosouza-rs/)</dd>
-  <dd>[Email] (souza.rodrigo.rls@gmail.com)</dd>
-</dl>
+Feel free to reach out to me:
+
+
+  [LinkedIn] (https://www.linkedin.com/in/rodrigosouza-rs/)
+
+  
+  [Email] (souza.rodrigo.rls@gmail.com)
+

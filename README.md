@@ -11,8 +11,8 @@ When not coding I enjoy playing basketball, riding my bike and/or motorcycle, hi
 Feel free to reach out to me:
 
 
-  [LinkedIn] (https://www.linkedin.com/in/rodrigosouza-rs/)
+  [LinkedIn](https://www.linkedin.com/in/rodrigosouza-rs/)
 
   
-  [Email] (souza.rodrigo.rls@gmail.com)
+  [Email](souza.rodrigo.rls@gmail.com)
 
